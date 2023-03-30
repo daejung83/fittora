@@ -1,0 +1,6 @@
+export const PENDING_SESSION = 'PENDING'
+export const BOOKED_SESSION = 'BOOKED'
+export const PAYMENT_ISSUE_SESSION = 'PAYMENT_ISSUE'
+export const STARTED_SESSION = 'STARTED'
+export const COMPLETED_SESSION = 'COMPLETED'
+export const REPORTED_NO_SHOW = 'NO_SHOW'
